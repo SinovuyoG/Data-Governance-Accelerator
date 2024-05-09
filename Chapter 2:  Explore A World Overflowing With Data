@@ -1,0 +1,139 @@
+Chapter2: Explore A World Overflowing With Data 
+Defining Data 
+•	Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device.  
+•	These units represent something meaningful when processed for a human or a computer. 
+•	Single units of data are traditionally referred to as datum and multiple units as data. 
+Data is also defined based on its captured format. Specifically, at a high level, it falls into one of the following categories: 
+•	Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number. 
+•	Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts. 
+•	Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed. 
+ 
+Welcome to The Zettabyte Era 
+ 
+ 
+Figure 3: The qualitative and quantitative nature of data types.
+WHAT IS ZETTABYTE 
+•	A zettabyte is a big number. A really big number.  
+•	It’s 1021, or a 1 with 21 zeros after it.  
+•	It looks like this: 1,000,000,000,000,000,000,000 bytes. 
+Table 1a: Quantification of Data Storage 
+ 
+
+
+
+
+Table 1b: Examples of Data Volumes 
+Unit 	Value 	Example 
+
+Kilobytes (KB) 	1,000 bytes 	a paragraph of a text document 
+		
+Megabytes (MB) 	1,000 Kilobytes 	a small novel 
+Gigabytes (GB) 	1,000 Megabytes 	Beethoven’s 5th Symphony 
+Terabytes (TB) 	1,000 Gigabytes 	all the X-rays in a large hospital 
+Petabytes (PB) 	1,000 Terabytes 	half the contents of all US academic research libraries 
+Exabytes (EB) 	1,000 Petabytes 	about one fifth of the words people have ever spoken 
+Zettabytes (ZB) 	1,000 Exabytes 	as much information as there are grains of sand on all the world’s beaches 
+Yottabytes (YB) 	1,000 Zettabytes 	as much information as there are atoms in 7,000 human bodies 
+ 
+ 	 	 
+From Data to Insight 
+Generally, an organization is onboarding data because it’s required for some purpose. 
+
+Data that is never used is about as useful as producing reports that nobody reads. The assumption is that you have data for a reason. You have your data and it’s incredibly important to your organization, but it must be converted to information to have meaning. 
+
+
+
+
+Table 2: The Differences Between Data and Information 
+Data 	Information 
+Raw 	Processed 
+Items such as characters, words, pictures, and numbers that have no meaning in isolation 	Data that is organized and given context to have meaning 
+No analysis dependency 	Dependent on the analysis of data 
+Unorganized and not dependent on context t      	Organized and dependent on context 
+Not typically useful alone 	Useful alone 
+ 
+•	When we apply information coupled with broader contextual concepts, practical application, and experience, it becomes knowledge.  
+•	Knowledge is actionable. It may also give relevance to the saying that- knowledge is power. 
+•	To go further than this. When we take new knowledge and apply reasoning, values, and the broader universe of our knowledge and deep experiences, we get wisdom. With wisdom, we know what to do with knowledge and can determine its contextual validity. We could have stopped at knowledge, but wisdom takes us to the ultimate destination derived from data. All wisdom includes knowledge, but not all knowledge is wisdom.  
+•	Finally, insight is an outcome that can emerge from knowledge but is best demonstrated through a combination of knowledge and wisdom. With insight, we’ve gained a deeper understanding of something and have the skills to think or see it differently. 
+ 
+ 
+The journey of Data to Insights 
+  
+ 
+  
+ 
+ 
+The Role of Data in the 21st Century 
+Since the early days of data processing in the 19th and 20th centuries right through to digital transformation in the 21st century, data has played many important roles. It’s helped us understand the world in completely new ways, improved our ability to make better-informed decisions, and supported our efforts to solve all manner of problems. In this way, it’s fair to say that data has always been important. 
+ 
+ 
+Data-Driven Decision-Making 
+The availability of abundant good quality data has been a boon for decision-making. You should note that I said good-quality data. Consider this; if you make a decision based on bad data, your challenges will be entirely different. Abundant data is a product of the 21st century, but quality data is the product of deliberate actions. Data governance plays a central role when aspiring for data quality. 
+ 
+Data as The New Oil 
+A popular refrain coined by the mathematician Clive Humby in 2006 is that data is the new oil. Just as oil drove and grew economies in the past, data is doing that now. Some have subsequently added that just like oil, data has value but must first be processed to be useful. 
+Data Ownership 
+For something to be properly managed, someone needs to be responsible. We create accountability in job descriptions and projects. Without that, how will we know that something will get done? If this strikes you as self-explanatory — and it should — the idea that there should be accountability for every data set in an organization should also not come as a surprise  
+Data ownership describes the rights a person, team, or organization has over one or more data sets. 
+Data Architecture 
+•	When designing the technical needs of an organization to support its business strategy, this practice is known as enterprise architecture (EA). 
+•	 Using standards and established principles, organizations can analyze, design, plan, and implement the right technologies, policies, and projects to support business goals. 
+•	A subset of EA is data architecture. In the same manner, which you can consider the holistic nature of EA in support of the organization’s strategy,  
+•	data architecture is the manner in which data design and management decisions are being made to align with EA and in turn, with the business.  
+•	Simply stated, data architecture is the agreed blueprint for how data supports an organization’s functions and technologies. 
+ 
+•	When high-quality enterprises and data architectures both exist, organizations run more smoothly, and they can transform as conditions dictate.  
+ 
+•	The absence or poor implementation of both can stifle digital transformation efforts, create high levels of complexity, and increase the possibility of failure. 
+ 
+  
+At a minimum, data architecture considers and typically supports the following: 
+•	Ensuring data is available to those who need it and are approved to use it. 
+•	Reducing the complexity of accessing and utilizing data 
+•	Creating and enforcing data protections to support organizational policies and obligations. 
+•	Adopting and agreeing to data standards 
+•	Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication 
+ 
+ 
+ 
+  
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Lifecycle of Data 
+All data goes through phases during its lifecycle. Figure 6 illustrates a typical lifecycle. 
+  
+Figure 6:  The lifecycle of data 
+1.	Creation:  This is the stage at which data comes into being. It may be manual or automated and get created internally or externally. Data is created all the time by a vast number of activities that include system inputs and outputs. 
+2.	Storage:  Once data is created and assuming you want it available for later use, it must be stored. It most likely will be contained and managed in a database. The database needs a home, too as a local hard drive, server, or cloud service. 
+3.	Usage:  Hopefully you’re capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. That could include cleansing it of errors, transforming it to another format, and securing access rights. 
+4.	Archival:  In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized. 
+5.	Destruction:  Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive. 
+ 
+Understanding the Impact of Big Data 
+Defining Big Data 
+Big data is structured and unstructured data that is so massive and complex in scale, that it’s difficult and often impossible to process via traditional data management techniques. 
+ 
+One way to define and characterize big data is through these five Vs: 
+•	Volume: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes. 
+•	Variety: There are already a lot of legacy file formats, such as CSV and MP3, and with new innovations, new formats are emerging all the time. This requires different methods of handling, from analysis to security. 
+•	Velocity: With so many collection points, digital interfaces, and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, uploaded, and share 65,000 pictures a minute. 
+•	Variability:  The fact that the creation and flow of data are unpredictable. 
+•	Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management. 
+In 2021, global technology use generated 79 zettabytes of data, and it is anticipated to hit 180 zettabytes in 2025 
+Enter the Realm of Smart Data 
+•	Smart data has emerged as a new term that defines big data that’s been optimally prepared for use to deliver the highest business value.  
+•	Instead of being overwhelmed by the distractions inherent to the volume, velocity, and variety of data in big data sets, processes are applied to big data to prepare it for specific uses. 
+•	Smart data uses new processes and tools to make the data most useful.  
+•	For example, the increasing use of artificial intelligence (AI) is now being applied to find patterns in unstructured big data and extract the data that is most relevant for a given application.  
+•	Using new methods such as AI reduces time, lowers errors, and enables the creation of data subsets that may not have been previously possible.  
+•	In addition, smart data solutions are often applied at the point of collection rather than a post-processing solution. 
+ 
+In the 21st century we must recognize that all data can have value — big, small, and smart. Data governance is concerned with data no matter what form 
