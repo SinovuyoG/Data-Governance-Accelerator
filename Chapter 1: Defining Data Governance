@@ -1,0 +1,91 @@
+DATA GOVERNANCE
+CHAPTER1:DEFINING DATA GOVERNANCE
+	Data governance is the framework that you can use to proactively manage your data.
+	Governance is the system that formalizes control, processes, and accountabilities so that specific results such as meeting goals or sustaining standards can be attained.
+	Data governance is all about managing data well, but data governance is not restricted to only data management.
+	Successful data governance also means that data risks can be minimized, and data compliance and regulatory requirements can be met with ease.
+	The field where an organization operates with awareness of the importance of its information assets, such as customer or product data, is known as enterprise information management (EIM).
+	Fundamentally, data governance is driven by a desire to increase the value of data and reduce the risks associated with it. It forces a leap from an ad hoc approach to data to one that is
+Some of the main advantages achieved by good data governance include:
+•	Improved data quality
+•	Expanded data value
+•	Increased data compliance
+•	Improved data-driven decision-making
+•	Enhanced business performance
+•	Greater sharing and use of data across the enterprise and externally
+•	Increased data availability and accessibility
+•	Improved data search
+•	Reduced risks from data-related issues
+•	Reduced data management costs
+•	Established rules for handling data
+	In summary, data governance is about managing data well and helping to deliver its optimum value to your organization. 
+	It includes ensuring your data is available, usable, and secure. 
+	It’s the actions that team members take, the policies and processes they must follow, and the use of technologies that support them throughout the data lifecycle in their organization. 
+	It’s safe to say that for a growing number of organizations, data governance is becoming a very big deal 
+	The most common elements of data governance
+Data Governance Framework
+•	It is a basic set of guiding concepts and a structure in which to apply or implement the elements of data governance.
+
+•	While there are many framework variations to choose from, including ISACA’s Control Objectives for Information and Related Technologies (COBIT) IT governance framework, they share some common components that address people, processes, and technology.
+
+
+
+
+
+
+
+
+Important qualities of Data Governance framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preparing for Data Governance
+What is data culture?
+Data culture refers to an organizational philosophy that emphasizes the importance and value of using data in decision-making processes. It involves the widespread adoption of data-driven practices, where data is actively used to inform and guide strategies, operations, and innovations across all levels of an organization. The core idea is to empower everyone within the organization—regardless of their role or seniority—to utilize data in their decision-making processes.
+Here are some key components of a strong data culture:
+1.	Data Accessibility: Ensuring that data is accessible to all employees who need it, in a form that is understandable and usable. This involves having the right tools, infrastructure, and permissions in place.
+2.	Data Literacy: Investing in training and resources to help employees understand data, interpret it accurately, and make informed decisions based on that data. Data literacy includes the ability to read, work with, analyze, and argue with data.
+3.	Data Quality: Maintaining high standards of accuracy, completeness, and reliability in data collection, processing, and analysis. Good data quality is crucial for building trust in data across the organization.
+4.	Leadership and Commitment: Leadership must champion data-driven decision making as a core value of the organization. This includes setting an example by using data in strategic decision-making processes and supporting investments in data-related resources and training.
+5.	Tools and Infrastructure: Providing robust, user-friendly tools and technologies that can help employees gather, analyze, and visualize data efficiently and effectively.
+6.	Incentives and Goals: Aligning organizational incentives and performance metrics with the goals of promoting and rewarding data-driven decision making.
+7.	Collaboration and Communication: Encouraging a culture of sharing insights, methodologies, and outcomes derived from data analyses. This fosters a collaborative environment where data becomes a shared asset.
+8.	Innovation and Experimentation: Encouraging experimentation and innovation by using data to test hypotheses, pilot new projects, and iterate on processes.
+Building a strong data culture can lead to more objective decision-making, greater efficiency, improved customer experiences, and the ability to stay competitive in an increasingly data-driven world. It is not merely about having vast amounts of data but about fostering an environment where data is systematically integrated into the fabric of the organization’s operations.
+Maturing the Data Culture
+If you decide that you need to better prepare the organization for data governance by maturing the data culture, consider these items to start. Good news! Many of these items are covered in detail in this course. 
+•	Help leaders communicate the value of data and model the type of behavior that demonstrates that data is a priority. This must include communicating the positive results of using data.
+•	Provide basic tools and education for data use that include manipulating data, analytics, data cleansing, basic query commands, and visualization. Don’t overlook the remarkable capabilities of common applications such as spreadsheets.
+•	Do something, even if it’s small, to show progress. A successful data culture doesn’t begin with the deployment of complex, far-reaching solutions. Rather, it can be eased into the organization via basic data-management skills offered in a classroom setting or online.
+•	Recognize that resistance and frustration are part of the journey. Rather than fighting it, find ways to bring comfort and rewards to team members. At a minimum, provide a channel for feedback and positive discussion.
+Assessing Data Governance Readiness
+
+The following basic checklist of items will help you determine the data governance readiness of your organization:
+•	The basis of a data culture exists.
+•	The program is 100 percent aligned with business strategy.
+•	Senior leadership is 100 percent committed to the program and its goals.
+•	Senior leadership understands this is a strategic, enterprise program and not the sole responsibility of the IT department.
+•	One or more sponsors have been identified at an executive level.
+•	The program has the commitment to fund its creation and to maintain it in the long term.
+•	The organization understands this is an ongoing program and not a one-off project.
+•	You have documented the return-on-investment (ROI).
+•	Legal and compliance teams (internally or externally) understand and support the goals of the program.
+•	Fundamental data skills exist for the data governance journey.
+•	The IT organization is capable and resourced to support the program.
